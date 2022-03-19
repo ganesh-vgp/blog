@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: A test post.
-categories: [markdown]
+categories: [test]
 title: A Test Post
 ---
 # A Test Post using fastpages
