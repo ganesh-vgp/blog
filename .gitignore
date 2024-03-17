@@ -2,3 +2,4 @@ _extensions/
 _site/
 .quarto/
 _publish.yml
+/.quarto/
