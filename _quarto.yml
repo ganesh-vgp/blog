@@ -2,12 +2,14 @@ project:
   type: website
 
 website:
-  title: "ganesh_v_gp's blog"
+  title: "Gp's Blog"
   navbar:
+    search: false
     right:
       - about.qmd
       
 format:
   html:
-    theme: cosmo
+    theme: simplex
+    minimal: true
     css: styles.css

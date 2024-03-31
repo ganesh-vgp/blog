@@ -1,13 +1,14 @@
 ---
 title: "Enchanted in Singapore: A Swiftie's Ticket Tailspin"
-image: banner.jpeg
+image: banner.jpg
+image-height: "1"
 format: html
 ---
 Hey there, friend! Buckle up, because we're diving into a whirlwind adventure that blends my love for travel with my undying devotion to the queen herself, Taylor Swift! This is the first chapter of "Enchanted in Singapore," a chronicle of my journey to see her on the Eras Tour.
 
 **The Spark: A Tweet From Tay**
 
-June 21st, 2023, I was on my usual bus ride, the morning noises filling the air. Today, I skipped my headphones, letting the rhythm of the engine and the chatter of passengers be the soundtrack. While I was browsing through notifications from last night, a notification shattered the routine. Not just any notification; a tweet from Taylor Swift! My heart hammered as I unlocked my phone.
+June 21st, 2023, I was on my usual bus ride, the morning noises filling the air. Today, I skipped my headphones, letting the rhythm of the engine and the chatter of passengers be the soundtrack. While I was browsing through the notifications from last night, a notification shattered the routine. Not just any notification; a tweet from Taylor Swift! My heart hammered as I unlocked my phone.
 
 Tweet: The Eras Tour was going international! The dates sprawled across the screen like a neon dream. And there it was – Singapore! March 2nd, 3rd, and 4th! 
 
@@ -17,7 +18,7 @@ Could this be it? The chance to see my idol, the most captivating woman on Earth
 
 **Sharing the Dream (Maybe Not)**
 
-"Hey, guess what?" I blurted out, unable to contain my enthusiasm any longer. She lowered the paper, a questioning look in her eyes. I launched into a passionate explanation – Taylor's tour, Singapore, the chance to see her live!  As I spoke, I watched a flicker of something cross her face – amusement?  Disinterest?  It was hard to tell.
+"Hey, guess what?" I blurted out, unable to contain my enthusiasm any longer. She lowered the paper, a questioning look in her eyes. I launched into a passionate explanation – Taylor's tour, Singapore, the chance to see her live!  As I spoke, I watched a flicker of something cross her face – amusement?  Disinterest?  It was hard to tell exactly, but her smile was genuine.
 
 **The Ticket Conundrum**
 
@@ -34,3 +35,13 @@ The question of my companion remained. While a concert adventure with her would 
 **The Decision Looms**
 
 So here I am, caught in a whirlwind of emotions. The concert beckons, a beacon of shimmering possibility. Yet, the uncertainty of tickets hangs heavy.  Do I rally a friend of mine to go together, or do I brave the solo queue and the unknown?  One thing's for sure, a decision needs to be made. Stay tuned! ✌️
+
+**My life & Taylor: 01**
+
+The song that unlocked the fandom within me was "Blank Space." The first time I watched it, the lyrics wrapped around my heart like a glittering scarf. It was the hallmark of a true Taylor Swift masterpiece. 
+
+But beyond the song, there was the music video. Taylor, a vision of elegance and playful wit, captivated the screen. Her beauty wasn't just about flawless features; it was the way she owned every outfit, every scene, every emotion.  She is a modern-day fairytale princess.
+
+Let's take a moment to reminisce while we wait for the next chapter. Hit play below and sing along to the song that launched a million Swifties!!!
+
+<iframe width="375" height="225" src="https://www.youtube.com/embed/e-ORhEE9VVg?si=-c8pt3VlRqO9ePOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
