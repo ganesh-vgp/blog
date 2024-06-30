@@ -4,7 +4,7 @@ image: assets\banner.png
 image-height: "1"
 format: html
 ---
-Welcome back to "Enchanted in Singapore," where the countdown to Taylor's Eras Tour is well and truly underway! As you may recall from my [last post](http://localhost:6276/posts/enchanted-in-singapore-1/), my world exploded in a flurry of excitement (and a touch of panic) when Tay herself announced the Singapore leg of the tour. Seeing her live, belting out every word to "Love Story" under the night sky - it was a dream within reach, but the hurdle of those infamous concert tickets loomed large.
+Welcome back to "Enchanted in Singapore," where the countdown to Taylor's Eras Tour is well and truly underway! As you may recall from my [last post](https://ganesh-v-gp.quarto.pub/blog/posts/enchanted-in-singapore-1/), my world exploded in a flurry of excitement (and a touch of panic) when Tay herself announced the Singapore leg of the tour. Seeing her live, belting out every word to "Love Story" under the night sky - it was a dream within reach, but the hurdle of those infamous concert tickets loomed large.
 
 So, where do we go from here? we're about to dive headfirst into the thrilling world of registration for securing the ticket to see the queen herself.
 
@@ -52,7 +52,7 @@ With a deep breath, I hit refresh on the Ticketmaster page right at 9:30 AM.  Th
 
 Knowing that sometimes the internet have a mind of its own, I took a precautionary measure.  I enlisted the help of a few tech-savvy teammates, asking them to join the queue on their own devices.  A virtual safety net, in case my computer decided to take a nosedive at this crucial moment.
 
-With the queue number displayed prominently on my monitor, a silent competition began.  My teammate, `Priya`, a friend/bestie with an ever-present smile, even joined in on the queue.  Sure, she wasn't quite as obsessed with Taylor as me, but her unwavering support (and perhaps a little friendly competition?) was a welcome distraction during the wait.  We exchanged nervous glances and mumbled words of encouragement, a silent pact formed between two colleagues, one a Swiftie and the other a gracious friend.
+With the queue number displayed prominently on my monitor, a silent competition began.  My teammate, `Priya`, a friend with an ever-present smile, even joined in on the queue.  Sure, she wasn't quite as obsessed with Taylor as me, but her unwavering support (and perhaps a little friendly competition?) was a welcome distraction during the wait.  We exchanged nervous glances and mumbled words of encouragement, a silent pact formed between two colleagues, one a Swiftie and the other a gracious friend.
 
 ### The Queue Odyssey
 
