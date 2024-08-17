@@ -1,0 +1,7 @@
+---
+title: "Enchanted in Singapore: <TITLE>"
+image: assets\banner.png
+image-height: "1"
+format: html
+---
+<BODY>
