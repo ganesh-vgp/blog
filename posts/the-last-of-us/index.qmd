@@ -1,5 +1,7 @@
 ---
 title: "A Brutal Yet Beautiful Journey: The Last of Us (Spoiler Free)"
+author: "Ganesh Prabhu"
+date: "30 June, 2024"
 image: assets\banner.jpg
 image-height: "1"
 format: html

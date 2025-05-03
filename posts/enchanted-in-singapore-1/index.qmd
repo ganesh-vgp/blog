@@ -1,5 +1,7 @@
 ---
 title: "Enchanted in Singapore: A Swiftie's Ticket Tailspin"
+author: "Ganesh Prabhu"
+date: "March 17, 2024"
 image: banner.jpg
 image-height: "1"
 format: html
