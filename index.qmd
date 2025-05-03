@@ -3,8 +3,8 @@ title: "Posts"
 listing:
   contents: posts
   sort: "date desc"
-  type: grid
-  categories: true
+  type: "table"
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full
