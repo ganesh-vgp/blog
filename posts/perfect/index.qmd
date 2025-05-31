@@ -4,7 +4,7 @@ author: "Ganesh Prabhu"
 date: "May 31, 2025"
 format: html
 ---
-<iframe width="375" height="225" src="https://www.youtube.com/embed/syFZfO_wfMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="375" height="225" src="https://www.youtube.com/embed/2Vv-BfVoq4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Before you read, take a few minutes to watch Ed Sheeran’s Perfect music video. It’s a simple, beautiful story that really sets the mood for what I want to share here.*
 
@@ -20,5 +20,5 @@ Another lyric that stays with me is, *“We are still kids, but we're so in love
 
 Watching the video feels less like entertainment and more like watching someone’s favorite memory play out. It made me think of the moments I have had or hoped for, where love felt like home. No big speeches. Just food, laughter, music and **someone who sees you exactly as you are.**
 
-It’s a reminder that love isn’t always loud. Sometimes, it’s just sitting across from someone, sharing food, a song and **a look that says, “I’m happy it’s you.”**
+It’s a reminder that love isn’t always loud. Sometimes, it’s just sitting across from someone, sharing food, a song and **a look that says, “I am happy it’s you.”**
 
