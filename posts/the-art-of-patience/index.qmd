@@ -1,7 +1,7 @@
 ---
 title: "Stop Pushing, Start Trusting: The Art of Patience"
 author: "Ganesh Prabhu"
-date: "30 August, 2025"
+date: "31 August, 2025"
 format: html
 ---
 
